@@ -91,7 +91,7 @@ int main() {
     // cat resources/*.txt | ./bin/main
 
     // runFordFulkerson();
-    // runDijkstra();
+    runDijkstra();
     // runBellmanFord();
     // runDepthFirstSearch();
     // runBreadthFirstSearch();
