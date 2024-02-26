@@ -7,6 +7,7 @@ A small collection of graph algorithms implemented in C++. Currently available:
 - [Dijkstra](./src/dijkstra.cpp)
 - [Bellman-Ford](./src/bellman_ford.cpp)
 - [Ford-Fulkerson](./src/ford_fulkerson.cpp)
+- [Edmonds-Karp](./src//edmonds_karp.cpp)
 
 ## How to run
 
